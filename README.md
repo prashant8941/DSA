@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -50,8 +52,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
