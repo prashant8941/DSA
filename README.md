@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
