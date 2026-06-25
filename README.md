@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant8941/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prashant8941/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
@@ -87,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
