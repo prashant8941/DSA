@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -59,12 +61,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -93,11 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
+| [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
 |  |
 | ------- |
