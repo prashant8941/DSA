@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/prashant8941/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashant8941/DSA/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -164,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prashant8941/DSA/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
