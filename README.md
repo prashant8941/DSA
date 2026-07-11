@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Backtracking
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
@@ -250,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 ## Quickselect
 |  |
 | ------- |
