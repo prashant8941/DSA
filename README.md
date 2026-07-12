@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant8941/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
+| [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
+| [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant8941/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant8941/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
+| [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 ## Counting
 |  |
