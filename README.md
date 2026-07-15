@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/prashant8941/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prashant8941/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prashant8941/DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/prashant8941/DSA/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/prashant8941/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/prashant8941/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prashant8941/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/prashant8941/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/prashant8941/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/prashant8941/DSA/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/prashant8941/DSA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/prashant8941/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/prashant8941/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
@@ -294,4 +297,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/prashant8941/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/prashant8941/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
