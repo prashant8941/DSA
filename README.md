@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/prashant8941/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/prashant8941/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashant8941/DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashant8941/DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
@@ -289,4 +290,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prashant8941/DSA/tree/master/0225-implement-stack-using-queues) |
+## Number Theory
+|  |
+| ------- |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/prashant8941/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
