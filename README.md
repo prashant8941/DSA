@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/prashant8941/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3995-gcd-of-odd-and-even-sums](https://github.com/prashant8941/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashant8941/DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashant8941/DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -297,8 +301,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/prashant8941/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/prashant8941/DSA/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
