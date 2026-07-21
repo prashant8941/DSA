@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/prashant8941/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/prashant8941/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/prashant8941/DSA/tree/master/0686-repeated-string-match) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prashant8941/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant8941/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashant8941/DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -350,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/prashant8941/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
