@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 ## Bit Manipulation
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0686-repeated-string-match](https://github.com/prashant8941/DSA/tree/master/0686-repeated-string-match) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prashant8941/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant8941/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/prashant8941/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashant8941/DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
