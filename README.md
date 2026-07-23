@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/prashant8941/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prashant8941/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/prashant8941/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/prashant8941/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prashant8941/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/prashant8941/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0038-count-and-say](https://github.com/prashant8941/DSA/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/prashant8941/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/prashant8941/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/prashant8941/DSA/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/prashant8941/DSA/tree/master/0686-repeated-string-match) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prashant8941/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
