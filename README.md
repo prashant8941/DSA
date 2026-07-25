@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/prashant8941/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/prashant8941/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/prashant8941/DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/prashant8941/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prashant8941/DSA/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashant8941/DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
+| [3859-maximum-product-of-two-digits](https://github.com/prashant8941/DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
