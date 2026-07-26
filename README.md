@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/prashant8941/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant8941/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/prashant8941/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/prashant8941/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant8941/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/prashant8941/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
