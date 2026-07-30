@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant8941/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/prashant8941/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prashant8941/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -380,11 +381,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/prashant8941/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant8941/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/prashant8941/DSA/tree/master/0460-lfu-cache) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prashant8941/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/prashant8941/DSA/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prashant8941/DSA/tree/master/0295-find-median-from-data-stream) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prashant8941/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/prashant8941/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -437,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prashant8941/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prashant8941/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prashant8941/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -456,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prashant8941/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prashant8941/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prashant8941/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -465,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prashant8941/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prashant8941/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prashant8941/DSA/tree/master/0783-search-in-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/prashant8941/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prashant8941/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting Sort
 |  |
