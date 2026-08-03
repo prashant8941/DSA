@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1386-shift-2d-grid](https://github.com/prashant8941/DSA/tree/master/1386-shift-2d-grid) |
+| [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/prashant8941/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant8941/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/prashant8941/DSA/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
+| [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -490,4 +493,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/prashant8941/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
