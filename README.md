@@ -237,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/prashant8941/DSA/tree/master/0200-number-of-islands) |
+| [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prashant8941/DSA/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -516,4 +520,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prashant8941/DSA/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
