@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashant8941/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant8941/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashant8941/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashant8941/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -294,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant8941/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/prashant8941/DSA/tree/master/1755-defuse-the-bomb) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashant8941/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
 |  |
 | ------- |
