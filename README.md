@@ -616,4 +616,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prashant8941/DSA/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
