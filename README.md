@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashant8941/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/prashant8941/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1487-cinema-seat-allocation](https://github.com/prashant8941/DSA/tree/master/1487-cinema-seat-allocation) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/prashant8941/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/prashant8941/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prashant8941/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -156,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant8941/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/prashant8941/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/prashant8941/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -484,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/prashant8941/DSA/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -500,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 ## String Matching
 |  |
