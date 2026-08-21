@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/prashant8941/DSA/tree/master/1755-defuse-the-bomb) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/prashant8941/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant8941/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant8941/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/prashant8941/DSA/tree/master/1487-cinema-seat-allocation) |
+| [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2486-most-frequent-even-element](https://github.com/prashant8941/DSA/tree/master/2486-most-frequent-even-element) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prashant8941/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/prashant8941/DSA/tree/master/1250-longest-common-subsequence) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
+| [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/prashant8941/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
@@ -233,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/prashant8941/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
