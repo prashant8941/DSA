@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/prashant8941/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/prashant8941/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
 | [0556-next-greater-element-iii](https://github.com/prashant8941/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/prashant8941/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prashant8941/DSA/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/prashant8941/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashant8941/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prashant8941/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prashant8941/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -629,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/prashant8941/DSA/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
