@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/prashant8941/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/prashant8941/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/prashant8941/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
 | [0556-next-greater-element-iii](https://github.com/prashant8941/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/prashant8941/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prashant8941/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/prashant8941/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/prashant8941/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashant8941/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prashant8941/DSA/tree/master/0062-unique-paths) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 ## String Matching
