@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/prashant8941/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/prashant8941/DSA/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant8941/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prashant8941/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prashant8941/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant8941/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
@@ -670,10 +672,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/prashant8941/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prashant8941/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
