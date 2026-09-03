@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/prashant8941/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prashant8941/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/prashant8941/DSA/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashant8941/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prashant8941/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prashant8941/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/prashant8941/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prashant8941/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/prashant8941/DSA/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/prashant8941/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/prashant8941/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prashant8941/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/prashant8941/DSA/tree/master/0139-word-break) |
