@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4107-find-missing-elements](https://github.com/prashant8941/DSA/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/prashant8941/DSA/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/prashant8941/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashant8941/DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/prashant8941/DSA/tree/master/4256-construct-uniform-parity-array-i) |
+| [4258-construct-uniform-parity-array-ii](https://github.com/prashant8941/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
