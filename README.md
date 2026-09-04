@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4256-construct-uniform-parity-array-i](https://github.com/prashant8941/DSA/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/prashant8941/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/prashant8941/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prashant8941/DSA/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [4284-smallest-stable-index-i](https://github.com/prashant8941/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
