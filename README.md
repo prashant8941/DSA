@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/prashant8941/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prashant8941/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/prashant8941/DSA/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prashant8941/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/prashant8941/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prashant8941/DSA/tree/master/0152-maximum-product-subarray) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/prashant8941/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/prashant8941/DSA/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/prashant8941/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prashant8941/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/prashant8941/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/prashant8941/DSA/tree/master/0132-palindrome-partitioning-ii) |
