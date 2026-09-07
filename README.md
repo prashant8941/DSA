@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/prashant8941/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant8941/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/prashant8941/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prashant8941/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0460-lfu-cache](https://github.com/prashant8941/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/prashant8941/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/prashant8941/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/prashant8941/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
