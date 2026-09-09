@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/prashant8941/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/prashant8941/DSA/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/prashant8941/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1487-cinema-seat-allocation](https://github.com/prashant8941/DSA/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prashant8941/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/prashant8941/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/prashant8941/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant8941/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
