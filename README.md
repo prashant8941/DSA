@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
 | [1755-defuse-the-bomb](https://github.com/prashant8941/DSA/tree/master/1755-defuse-the-bomb) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/prashant8941/DSA/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/prashant8941/DSA/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prashant8941/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/prashant8941/DSA/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/prashant8941/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/prashant8941/DSA/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/prashant8941/DSA/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -746,4 +749,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/prashant8941/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/prashant8941/DSA/tree/master/0494-target-sum) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/prashant8941/DSA/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->
