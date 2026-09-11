@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/prashant8941/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0556-next-greater-element-iii](https://github.com/prashant8941/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/prashant8941/DSA/tree/master/0647-palindromic-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/prashant8941/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashant8941/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/prashant8941/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/prashant8941/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/prashant8941/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/prashant8941/DSA/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prashant8941/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant8941/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/prashant8941/DSA/tree/master/0977-distinct-subsequences-ii) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/prashant8941/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/prashant8941/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/prashant8941/DSA/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/prashant8941/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/prashant8941/DSA/tree/master/0686-repeated-string-match) |
 | [0977-distinct-subsequences-ii](https://github.com/prashant8941/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prashant8941/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
