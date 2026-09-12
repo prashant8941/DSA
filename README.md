@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/prashant8941/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3799-unique-3-digit-even-numbers](https://github.com/prashant8941/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/prashant8941/DSA/tree/master/2690-house-robber-iv) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/prashant8941/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/prashant8941/DSA/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/prashant8941/DSA/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2690-house-robber-iv](https://github.com/prashant8941/DSA/tree/master/2690-house-robber-iv) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/prashant8941/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/prashant8941/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/prashant8941/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashant8941/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3562-maximum-score-of-non-overlapping-intervals](https://github.com/prashant8941/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/prashant8941/DSA/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/prashant8941/DSA/tree/master/3859-maximum-product-of-two-digits) |
 | [4107-find-missing-elements](https://github.com/prashant8941/DSA/tree/master/4107-find-missing-elements) |
