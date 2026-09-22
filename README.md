@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/prashant8941/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prashant8941/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
+| [0907-koko-eating-bananas](https://github.com/prashant8941/DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/prashant8941/DSA/tree/master/0940-fruit-into-baskets) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/prashant8941/DSA/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant8941/DSA/tree/master/0967-minimum-falling-path-sum) |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant8941/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prashant8941/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0907-koko-eating-bananas](https://github.com/prashant8941/DSA/tree/master/0907-koko-eating-bananas) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/prashant8941/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
