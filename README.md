@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prashant8941/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/prashant8941/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prashant8941/DSA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant8941/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/prashant8941/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prashant8941/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
 | [0556-next-greater-element-iii](https://github.com/prashant8941/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-rectangle-overlap](https://github.com/prashant8941/DSA/tree/master/0866-rectangle-overlap) |
@@ -655,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -683,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/prashant8941/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/prashant8941/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/prashant8941/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -836,4 +840,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
