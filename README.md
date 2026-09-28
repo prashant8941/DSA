@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4258-construct-uniform-parity-array-ii](https://github.com/prashant8941/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/prashant8941/DSA/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/prashant8941/DSA/tree/master/4285-smallest-stable-index-ii) |
+| [4351-minimum-total-cost-to-process-all-elements](https://github.com/prashant8941/DSA/tree/master/4351-minimum-total-cost-to-process-all-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [4248-count-commas-in-range-ii](https://github.com/prashant8941/DSA/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/prashant8941/DSA/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/prashant8941/DSA/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4351-minimum-total-cost-to-process-all-elements](https://github.com/prashant8941/DSA/tree/master/4351-minimum-total-cost-to-process-all-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -708,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1386-shift-2d-grid](https://github.com/prashant8941/DSA/tree/master/1386-shift-2d-grid) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4351-minimum-total-cost-to-process-all-elements](https://github.com/prashant8941/DSA/tree/master/4351-minimum-total-cost-to-process-all-elements) |
 ## Combinatorics
 |  |
 | ------- |
