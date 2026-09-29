@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/prashant8941/DSA/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/prashant8941/DSA/tree/master/0940-fruit-into-baskets) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/prashant8941/DSA/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0954-maximum-sum-circular-subarray](https://github.com/prashant8941/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant8941/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant8941/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/prashant8941/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/prashant8941/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prashant8941/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0954-maximum-sum-circular-subarray](https://github.com/prashant8941/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant8941/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [0977-distinct-subsequences-ii](https://github.com/prashant8941/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/prashant8941/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/prashant8941/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashant8941/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/prashant8941/DSA/tree/master/0493-reverse-pairs) |
+| [0954-maximum-sum-circular-subarray](https://github.com/prashant8941/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -694,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prashant8941/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0954-maximum-sum-circular-subarray](https://github.com/prashant8941/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Number Theory
 |  |
 | ------- |
@@ -900,4 +904,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/prashant8941/DSA/tree/master/0523-continuous-subarray-sum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/prashant8941/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
