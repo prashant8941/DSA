@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/prashant8941/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/prashant8941/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prashant8941/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1095-two-city-scheduling](https://github.com/prashant8941/DSA/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/prashant8941/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1121-partition-array-for-maximum-sum](https://github.com/prashant8941/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/prashant8941/DSA/tree/master/1130-last-stone-weight-ii) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/prashant8941/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1095-two-city-scheduling](https://github.com/prashant8941/DSA/tree/master/1095-two-city-scheduling) |
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prashant8941/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/prashant8941/DSA/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1095-two-city-scheduling](https://github.com/prashant8941/DSA/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prashant8941/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prashant8941/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prashant8941/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -908,4 +911,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/prashant8941/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/prashant8941/DSA/tree/master/1095-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1095-two-city-scheduling](https://github.com/prashant8941/DSA/tree/master/1095-two-city-scheduling) |
 <!---LeetCode Topics End-->
