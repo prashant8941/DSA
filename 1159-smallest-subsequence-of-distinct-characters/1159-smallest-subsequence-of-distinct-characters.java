@@ -1,40 +1,29 @@
 class Solution {
-    public String smallestSubsequence(String text) {
-        StringBuilder sb = new StringBuilder();
-
-        int[] count = new int[128];
-        boolean[] used = new boolean[128];
-
-        // Count frequency of each character
-        for (char c : text.toCharArray()) {
-            count[c]++;
+    public String smallestSubsequence(String s) {
+        int n = s.length(); 
+        int[]last = new int[26]; 
+       for(int i = 0 ;i < n;i++){
+        char ch = s.charAt(i); 
+        last[ch-'a'] = i ; 
+       }
+       Stack<Character>st = new Stack<>(); 
+       boolean[]used = new boolean[26]; 
+       for( int i = 0 ;i < n;i++){
+        char ch = s.charAt(i); 
+        int ind = ch-'a'; 
+        if( used[ind])continue ; 
+        while( !st.isEmpty()&& st.peek()>ch && last[st.peek()-'a']> i  ){
+           used[st.pop()-'a'] = false ; 
+         
         }
-
-        for (char c : text.toCharArray()) {
-            count[c]--;
-
-            // Skip if already included
-            if (used[c]) {
-                continue;
-            }
-
-            // Maintain lexicographically smallest order
-            while (sb.length() > 0 &&
-                   last(sb) > c &&
-                   count[last(sb)] > 0) {
-
-                used[last(sb)] = false;
-                sb.setLength(sb.length() - 1);
-            }
-
-            sb.append(c);
-            used[c] = true;
-        }
-
-        return sb.toString();
-    }
-
-    private char last(StringBuilder sb) {
-        return sb.charAt(sb.length() - 1);
+        st.push(ch); 
+        used[ind] = true ; 
+       }
+       StringBuilder sb = new StringBuilder(); 
+       while(!st.isEmpty()){
+        sb.append(st.pop()); 
+       }
+       return sb.reverse().toString(); 
+        
     }
 }
