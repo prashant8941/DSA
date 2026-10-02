@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/prashant8941/DSA/tree/master/2690-house-robber-iv) |
+| [2730-maximum-or](https://github.com/prashant8941/DSA/tree/master/2730-maximum-or) |
 | [2751-sliding-subarray-beauty](https://github.com/prashant8941/DSA/tree/master/2751-sliding-subarray-beauty) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/prashant8941/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/prashant8941/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/prashant8941/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1487-cinema-seat-allocation](https://github.com/prashant8941/DSA/tree/master/1487-cinema-seat-allocation) |
+| [2730-maximum-or](https://github.com/prashant8941/DSA/tree/master/2730-maximum-or) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prashant8941/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/prashant8941/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/prashant8941/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant8941/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2730-maximum-or](https://github.com/prashant8941/DSA/tree/master/2730-maximum-or) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/prashant8941/DSA/tree/master/2591-frog-jump-ii) |
 | [2636-maximum-subsequence-score](https://github.com/prashant8941/DSA/tree/master/2636-maximum-subsequence-score) |
 | [2690-house-robber-iv](https://github.com/prashant8941/DSA/tree/master/2690-house-robber-iv) |
+| [2730-maximum-or](https://github.com/prashant8941/DSA/tree/master/2730-maximum-or) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant8941/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashant8941/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/prashant8941/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
