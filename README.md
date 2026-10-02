@@ -510,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prashant8941/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/prashant8941/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2039-sum-game](https://github.com/prashant8941/DSA/tree/master/2039-sum-game) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/prashant8941/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashant8941/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashant8941/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant8941/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1487-cinema-seat-allocation](https://github.com/prashant8941/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2039-sum-game](https://github.com/prashant8941/DSA/tree/master/2039-sum-game) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/prashant8941/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/prashant8941/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/prashant8941/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashant8941/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -757,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/prashant8941/DSA/tree/master/0204-count-primes) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/prashant8941/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/prashant8941/DSA/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/prashant8941/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/prashant8941/DSA/tree/master/3805-maximize-active-section-with-trade-i) |
