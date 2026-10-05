@@ -501,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/prashant8941/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/prashant8941/DSA/tree/master/0686-repeated-string-match) |
+| [0886-score-of-parentheses](https://github.com/prashant8941/DSA/tree/master/0886-score-of-parentheses) |
 | [0977-distinct-subsequences-ii](https://github.com/prashant8941/DSA/tree/master/0977-distinct-subsequences-ii) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prashant8941/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1170-shortest-common-supersequence](https://github.com/prashant8941/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/prashant8941/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prashant8941/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/prashant8941/DSA/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/prashant8941/DSA/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prashant8941/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/prashant8941/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -916,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/prashant8941/DSA/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prashant8941/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Primality Test
 |  |
