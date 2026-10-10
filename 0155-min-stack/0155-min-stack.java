@@ -1,41 +1,36 @@
 class MinStack {
-    List<Integer>list ; 
-    List<Integer>sort ; 
+    Stack<Integer>st ; 
+    Stack<Integer>minSt ; 
 
     public MinStack() {
-        list = new ArrayList<>(); 
-        sort = new ArrayList<>(); 
+        st = new Stack<>(); 
+        minSt = new Stack<>(); 
         
     }
     
     public void push(int value) {
-       list.add(value); 
-
-         int index = Collections.binarySearch(sort, value);
-
-        if (index < 0) {
-            index = -(index + 1);   // Calculate insertion point
+        st.push(value); 
+        if( minSt.isEmpty()|| value <= minSt.peek()){
+            minSt.push(value); 
         }
-
-        sort.add(index, value);
         
     }
     
     public void pop() {
-        int el = list.get(list.size()-1 ); 
-        list.remove(list.size()-1); 
-        sort.remove(Integer.valueOf(el)); 
-
+        int val = st.pop(); 
+        if( val == minSt.peek()){
+            minSt.pop(); 
+        }
         
     }
     
     public int top() {
-        return list.get(list.size()-1); 
+        return st.peek(); 
         
     }
     
     public int getMin() {
-        return sort.get(0); 
+        return minSt.peek(); 
         
     }
 }
