@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant8941/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/prashant8941/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/prashant8941/DSA/tree/master/1755-defuse-the-bomb) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prashant8941/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prashant8941/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/prashant8941/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/prashant8941/DSA/tree/master/1646-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2591-frog-jump-ii](https://github.com/prashant8941/DSA/tree/master/2591-frog-jump-ii) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/prashant8941/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant8941/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2730-maximum-or](https://github.com/prashant8941/DSA/tree/master/2730-maximum-or) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/prashant8941/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -541,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prashant8941/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant8941/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/prashant8941/DSA/tree/master/1755-defuse-the-bomb) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prashant8941/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/prashant8941/DSA/tree/master/2751-sliding-subarray-beauty) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashant8941/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -594,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prashant8941/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/prashant8941/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1487-cinema-seat-allocation](https://github.com/prashant8941/DSA/tree/master/1487-cinema-seat-allocation) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2039-sum-game](https://github.com/prashant8941/DSA/tree/master/2039-sum-game) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/prashant8941/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
