@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prashant8941/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/prashant8941/DSA/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prashant8941/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/prashant8941/DSA/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/prashant8941/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/prashant8941/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prashant8941/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2591-frog-jump-ii](https://github.com/prashant8941/DSA/tree/master/2591-frog-jump-ii) |
 | [2665-minimum-time-to-repair-cars](https://github.com/prashant8941/DSA/tree/master/2665-minimum-time-to-repair-cars) |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prashant8941/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/prashant8941/DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/prashant8941/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
