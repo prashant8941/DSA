@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/prashant8941/DSA/tree/master/1254-number-of-closed-islands) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prashant8941/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant8941/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
+| [1254-number-of-closed-islands](https://github.com/prashant8941/DSA/tree/master/1254-number-of-closed-islands) |
 | [1386-shift-2d-grid](https://github.com/prashant8941/DSA/tree/master/1386-shift-2d-grid) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prashant8941/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -517,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/prashant8941/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/prashant8941/DSA/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/prashant8941/DSA/tree/master/1254-number-of-closed-islands) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
@@ -678,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/prashant8941/DSA/tree/master/1254-number-of-closed-islands) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prashant8941/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
@@ -750,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prashant8941/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/prashant8941/DSA/tree/master/1254-number-of-closed-islands) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/prashant8941/DSA/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
