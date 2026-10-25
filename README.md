@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prashant8941/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/prashant8941/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/prashant8941/DSA/tree/master/4062-transform-array-using-pair-operations) |
 | [4074-count-subarrays-with-majority-element-i](https://github.com/prashant8941/DSA/tree/master/4074-count-subarrays-with-majority-element-i) |
 | [4075-count-subarrays-with-majority-element-ii](https://github.com/prashant8941/DSA/tree/master/4075-count-subarrays-with-majority-element-ii) |
 | [4107-find-missing-elements](https://github.com/prashant8941/DSA/tree/master/4107-find-missing-elements) |
@@ -1014,4 +1015,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/prashant8941/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/prashant8941/DSA/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
