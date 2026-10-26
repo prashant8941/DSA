@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/prashant8941/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prashant8941/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/prashant8941/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prashant8941/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3799-unique-3-digit-even-numbers](https://github.com/prashant8941/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prashant8941/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prashant8941/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -691,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2914-find-the-safest-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3561-remove-methods-from-project](https://github.com/prashant8941/DSA/tree/master/3561-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prashant8941/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -762,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/prashant8941/DSA/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2793-count-the-number-of-complete-components](https://github.com/prashant8941/DSA/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/prashant8941/DSA/tree/master/3561-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prashant8941/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
