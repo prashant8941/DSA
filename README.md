@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/prashant8941/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/prashant8941/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prashant8941/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/prashant8941/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/prashant8941/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/prashant8941/DSA/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/prashant8941/DSA/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prashant8941/DSA/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prashant8941/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/prashant8941/DSA/tree/master/2690-house-robber-iv) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/prashant8941/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/prashant8941/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/prashant8941/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3919-network-recovery-pathways](https://github.com/prashant8941/DSA/tree/master/3919-network-recovery-pathways) |
 | [3962-number-of-zigzag-arrays-i](https://github.com/prashant8941/DSA/tree/master/3962-number-of-zigzag-arrays-i) |
 ## Prefix Sum
