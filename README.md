@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/prashant8941/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prashant8941/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/prashant8941/DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/prashant8941/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/prashant8941/DSA/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/prashant8941/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/prashant8941/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/prashant8941/DSA/tree/master/0221-maximal-square) |
+| [0542-01-matrix](https://github.com/prashant8941/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/prashant8941/DSA/tree/master/0967-minimum-falling-path-sum) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/prashant8941/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/prashant8941/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/prashant8941/DSA/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/prashant8941/DSA/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/prashant8941/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/prashant8941/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -695,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/prashant8941/DSA/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prashant8941/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/prashant8941/DSA/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/prashant8941/DSA/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prashant8941/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/prashant8941/DSA/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/prashant8941/DSA/tree/master/0801-is-graph-bipartite) |
