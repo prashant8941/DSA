@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/prashant8941/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1121-partition-array-for-maximum-sum](https://github.com/prashant8941/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/prashant8941/DSA/tree/master/1130-last-stone-weight-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prashant8941/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
@@ -413,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/prashant8941/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/prashant8941/DSA/tree/master/1130-last-stone-weight-ii) |
 | [1170-shortest-common-supersequence](https://github.com/prashant8941/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prashant8941/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/prashant8941/DSA/tree/master/1250-longest-common-subsequence) |
