@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prashant8941/DSA/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant8941/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/prashant8941/DSA/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/prashant8941/DSA/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -288,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/prashant8941/DSA/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashant8941/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/prashant8941/DSA/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant8941/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
 | [3799-unique-3-digit-even-numbers](https://github.com/prashant8941/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/prashant8941/DSA/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -686,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2730-maximum-or](https://github.com/prashant8941/DSA/tree/master/2730-maximum-or) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant8941/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashant8941/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/prashant8941/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/prashant8941/DSA/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/prashant8941/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prashant8941/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
