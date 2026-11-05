@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/prashant8941/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/prashant8941/DSA/tree/master/0650-2-keys-keyboard) |
 | [0866-rectangle-overlap](https://github.com/prashant8941/DSA/tree/master/0866-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/prashant8941/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prashant8941/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/prashant8941/DSA/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1121-partition-array-for-maximum-sum](https://github.com/prashant8941/DSA/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/prashant8941/DSA/tree/master/1130-last-stone-weight-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/prashant8941/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/prashant8941/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/prashant8941/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1234-number-of-paths-with-max-score](https://github.com/prashant8941/DSA/tree/master/1234-number-of-paths-with-max-score) |
@@ -976,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/prashant8941/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/prashant8941/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/prashant8941/DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/prashant8941/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Brute-Force Search
 |  |
 | ------- |
