@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prashant8941/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashant8941/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-shift-2d-grid](https://github.com/prashant8941/DSA/tree/master/1386-shift-2d-grid) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/prashant8941/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prashant8941/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/prashant8941/DSA/tree/master/0647-palindromic-substrings) |
 | [0845-longest-mountain-in-array](https://github.com/prashant8941/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/prashant8941/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashant8941/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/prashant8941/DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashant8941/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/prashant8941/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/prashant8941/DSA/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant8941/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashant8941/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/prashant8941/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/prashant8941/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1222-remove-covered-intervals](https://github.com/prashant8941/DSA/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/prashant8941/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/prashant8941/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/prashant8941/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prashant8941/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
