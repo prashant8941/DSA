@@ -1026,6 +1026,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prashant8941/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prashant8941/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/prashant8941/DSA/tree/master/0886-score-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/prashant8941/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
