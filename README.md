@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prashant8941/DSA/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1487-cinema-seat-allocation](https://github.com/prashant8941/DSA/tree/master/1487-cinema-seat-allocation) |
 | [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prashant8941/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant8941/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/prashant8941/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/prashant8941/DSA/tree/master/1755-defuse-the-bomb) |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/prashant8941/DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prashant8941/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2039-sum-game](https://github.com/prashant8941/DSA/tree/master/2039-sum-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-maximum-profit-in-job-scheduling](https://github.com/prashant8941/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/prashant8941/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1522-stone-game-iii](https://github.com/prashant8941/DSA/tree/master/1522-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prashant8941/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prashant8941/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/prashant8941/DSA/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2118-maximum-earnings-from-taxi](https://github.com/prashant8941/DSA/tree/master/2118-maximum-earnings-from-taxi) |
@@ -452,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/prashant8941/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/prashant8941/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/prashant8941/DSA/tree/master/1240-stone-game-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prashant8941/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/prashant8941/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prashant8941/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2730-maximum-or](https://github.com/prashant8941/DSA/tree/master/2730-maximum-or) |
