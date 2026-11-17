@@ -27,13 +27,7 @@ class Solution {
                 i+=2 ; 
              }
         }
-        // char b = s.charAt(s.length()-2) ; 
-        // char c = s.charAt(s.length()-1); 
-        // int x = map.get(b); 
-        // int t = map.get(c); 
-        // if( x >= t ){
-        //     ans += t ; 
-        // }
+
         if( i<s.length()){
         int last = map.get(s.charAt(i)); 
         ans+=last ; 
