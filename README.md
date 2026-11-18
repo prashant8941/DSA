@@ -619,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prashant8941/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/prashant8941/DSA/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/prashant8941/DSA/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/prashant8941/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prashant8941/DSA/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant8941/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/prashant8941/DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
