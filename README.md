@@ -337,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2106-find-greatest-common-divisor-of-array](https://github.com/prashant8941/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/prashant8941/DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/prashant8941/DSA/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/prashant8941/DSA/tree/master/3360-stone-removal-game) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/prashant8941/DSA/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/prashant8941/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3583-sorted-gcd-pair-queries](https://github.com/prashant8941/DSA/tree/master/3583-sorted-gcd-pair-queries) |
@@ -878,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/prashant8941/DSA/tree/master/0735-asteroid-collision) |
 | [1386-shift-2d-grid](https://github.com/prashant8941/DSA/tree/master/1386-shift-2d-grid) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/prashant8941/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/prashant8941/DSA/tree/master/3360-stone-removal-game) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/prashant8941/DSA/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4351-minimum-total-cost-to-process-all-elements](https://github.com/prashant8941/DSA/tree/master/4351-minimum-total-cost-to-process-all-elements) |
 ## Combinatorics
